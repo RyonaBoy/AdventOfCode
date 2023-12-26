@@ -1,3 +1,0 @@
-/Users/yu/Desktop/AdventOfCode/2023/23/build/CMakeFiles/AOC2023_23.dir
-/Users/yu/Desktop/AdventOfCode/2023/23/build/CMakeFiles/edit_cache.dir
-/Users/yu/Desktop/AdventOfCode/2023/23/build/CMakeFiles/rebuild_cache.dir
